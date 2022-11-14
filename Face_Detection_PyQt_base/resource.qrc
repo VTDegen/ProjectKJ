@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>Icons/aperture.png</file>
+    <file>Icons/barcode.png</file>
+    <file>Icons/bell-ringing.png</file>
+    <file>Icons/book-download.png</file>
+    <file>Icons/book-upload.png</file>
+    <file>Icons/circle-minus.png</file>
+    <file>Icons/circle-plus.png</file>
+    <file>Icons/clipboard-text.png</file>
+    <file>Icons/code.png</file>
+    <file>Icons/copyright.png</file>
+    <file>Icons/cup.png</file>
+    <file>Icons/device-camera-phone.png</file>
+    <file>Icons/device-desktop.png</file>
+    <file>Icons/devices.png</file>
+    <file>Icons/door-enter.png</file>
+    <file>Icons/door-exit.png</file>
+    <file>Icons/door-off.png</file>
+    <file>Icons/edit.png</file>
+    <file>Icons/flag-3.png</file>
+    <file>Icons/help.png</file>
+    <file>Icons/id.png</file>
+    <file>Icons/settings.png</file>
+    <file>icon1.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
